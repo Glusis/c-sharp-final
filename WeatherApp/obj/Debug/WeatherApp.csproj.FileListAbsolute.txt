@@ -1,0 +1,11 @@
+C:\Users\Glusis\source\repos\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\Glusis\source\repos\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\Glusis\source\repos\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\Glusis\source\repos\WeatherApp\obj\Debug\WeatherApp.csprojAssemblyReference.cache
+C:\Users\Glusis\source\repos\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+C:\Users\Glusis\source\repos\WeatherApp\obj\Debug\WeatherApp.About.resources
+C:\Users\Glusis\source\repos\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\Glusis\source\repos\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\Glusis\source\repos\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Glusis\source\repos\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\Glusis\source\repos\WeatherApp\obj\Debug\WeatherApp.pdb
