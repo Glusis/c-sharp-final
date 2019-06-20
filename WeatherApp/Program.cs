@@ -16,6 +16,7 @@ namespace WeatherApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            Application.Run(new Splesh());
             Application.Run(new Form1());
         }
 
